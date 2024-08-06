@@ -98,3 +98,7 @@ Note that, for now it only supports following crops
 
 - ### Disease Detection system
 ![demo](https://media.giphy.com/media/NnMwEp2tGZdfnJbyjr/giphy.gif)
+
+###ISSUES which might arise
+1.check the neccessary vesions of the requirements.
+2.If issue arise check with GPT, if not contact me @suraparajuchandrakiran@gmail.com
